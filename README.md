@@ -23,9 +23,9 @@
 |   |   |   |
 | **WhispyWave** | **PointChoreo** | **CheckerWarp** |
 | [repo](https://github.com/smtsjhr/WhispyWave) &nbsp;&nbsp;&nbsp; [view](https://smtsjhr.com/WhispyWave) | [repo](https://github.com/smtsjhr/PointChoreo) &nbsp;&nbsp;&nbsp; [view](https://smtsjhr.com/PointChoreo)  | [repo](https://github.com/smtsjhr/CheckerWarp) &nbsp;&nbsp;&nbsp; [view](https://smtsjhr.com/CheckerWarp)  |   
-|![image](https://github.com/smtsjhr/smtsjhr.github.io/blob/master/GalleryThumbs/WhispyWave_thumb.png)  | ![image](https://github.com/smtsjhr/smtsjhr.github.io/blob/master/GalleryThumbs/BubbleRing_thumb.png)  |  ![image](https://github.com/smtsjhr/smtsjhr.github.io/blob/master/GalleryThumbs/BubbleRing_thumb.png)  |  
+|![image](https://github.com/smtsjhr/smtsjhr.github.io/blob/master/GalleryThumbs/WhispyWave_thumb.png)  | ![image](https://github.com/smtsjhr/smtsjhr.github.io/blob/master/GalleryThumbs/PointChoreo_thumb.png)  |  ![image](https://github.com/smtsjhr/smtsjhr.github.io/blob/master/GalleryThumbs/CheckerWarp_thumb.png)  |  
 |   |   |   |
 | **RecSlicer** | **FocusGrid** | **FocusGrid_2** |
 | [repo](https://github.com/smtsjhr/RecSlicer) &nbsp;&nbsp;&nbsp; [view](https://smtsjhr.com/RecSlicer) | [repo](https://github.com/smtsjhr/FocusGrid) &nbsp;&nbsp;&nbsp; [view](https://smtsjhr.com/FocusGrid)  | [repo](https://github.com/smtsjhr/FocusGrid_2) &nbsp;&nbsp;&nbsp; [view](https://smtsjhr.com/FocusGrid_2)  |   
-|![image](https://github.com/smtsjhr/smtsjhr.github.io/blob/master/GalleryThumbs/BubbleRing_thumb.png)  | ![image](https://github.com/smtsjhr/smtsjhr.github.io/blob/master/GalleryThumbs/FocusGrid_thumb.png)  |  ![image](https://github.com/smtsjhr/smtsjhr.github.io/blob/master/GalleryThumbs/BubbleRing_thumb.png)  |  
+|![image](https://github.com/smtsjhr/smtsjhr.github.io/blob/master/GalleryThumbs/RecSlicer_thumb.png)  | ![image](https://github.com/smtsjhr/smtsjhr.github.io/blob/master/GalleryThumbs/FocusGrid_thumb.png)  |  ![image](https://github.com/smtsjhr/smtsjhr.github.io/blob/master/GalleryThumbs/FocusGrid_2_thumb.png)  |  
 |   |   |   | 
