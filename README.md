@@ -15,7 +15,7 @@
 |   |   |   | 
 | **RecWaver** | **BubbleRing** | **PixelWave** |
 | [repo](https://github.com/smtsjhr/RecWaver) &nbsp;&nbsp;&nbsp; [view](https://smtsjhr.com/RecWaver) | [repo](https://github.com/smtsjhr/BubbleRing) &nbsp;&nbsp;&nbsp; [view](https://smtsjhr.com/BubbleRing)  | [repo](https://github.com/smtsjhr/PixelWave) &nbsp;&nbsp;&nbsp; [view](https://smtsjhr.com/PixelWave)  |   
-|![image](https://github.com/smtsjhr/smtsjhr.github.io/blob/master/GalleryThumbs/RecWaver_thumb.png)  | ![image](https://github.com/smtsjhr/smtsjhr.github.io/blob/master/GalleryThumbs/BubbleRing_thumb.png)  |  ![image](https://github.com/smtsjhr/smtsjhr.github.io/blob/master/GalleryThumbs/BubbleRing_thumb.png)  |  
+|![image](https://github.com/smtsjhr/smtsjhr.github.io/blob/master/GalleryThumbs/RecWaver_thumb.png)  | ![image](https://github.com/smtsjhr/smtsjhr.github.io/blob/master/GalleryThumbs/BubbleRing_thumb.png)  |  ![image](https://github.com/smtsjhr/smtsjhr.github.io/blob/master/GalleryThumbs/PixelWave_thumb.png)  |  
 |   |   |   |
 | **CircleWorm** | **CircleArcSine** | **CircleFarm** |
 | [repo](https://github.com/smtsjhr/CircleWorm) &nbsp;&nbsp;&nbsp; [view](https://smtsjhr.com/CircleWorm) | [repo](https://github.com/smtsjhr/CircleArcSine) &nbsp;&nbsp;&nbsp; [view](https://smtsjhr.com/CircleArcSine)  | [repo](https://github.com/smtsjhr/CircleFarm) &nbsp;&nbsp;&nbsp; [view](https://smtsjhr.com/CircleFarm)  |   
