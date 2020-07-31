@@ -2,6 +2,8 @@ I've been learning how to draw dynamic and interactive graphics using vanilla Ja
 
 Check out a gallery at [smtsjhr.com/#look](https://smtsjhr.com/#look) or view any of the respositories below.
 
+Some of these are also hosted on CodePen at [codepen.io/smtsjhr](https://codepen.io/smtsjhr).
+
 
 |  |  |  |  
 |:-:|:-:|:-:|
