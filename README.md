@@ -1,3 +1,7 @@
+I've been learning how to draw dynamic and interactive graphics using vanilla Javascript on the HTML Canvas. 
+
+Check out a gallery at [smtsjhr.com/#look](https://smtsjhr.com/#look) or view any of the respositories below.
+
 
 |  |  |  |  
 |:-:|:-:|:-:|
