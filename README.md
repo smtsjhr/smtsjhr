@@ -1,13 +1,18 @@
 I am learning how to draw dynamic and interactive graphics using vanilla Javascript on the HTML Canvas. 
 
-I have since made my own amateur utillity script called [CanvasAnimater.js](https://smtsjhr.com/CanvasAnimater.js/).
+I have since made my own amateur utillity script with a simple API called [CanvasAnimater.js](https://smtsjhr.com/CanvasAnimater.js/).
 
 Check out a gallery at [smtsjhr.com/#look](https://smtsjhr.com/#look) or view any of the respositories below.
 
 Some of these are also hosted on CodePen at [codepen.io/smtsjhr](https://codepen.io/smtsjhr).
 
 
-
+|  | 
+|:-:|
+| **FlyBy** | 
+| [repo](https://github.com/smtsjhr/FlyBy) &nbsp;&nbsp;&nbsp; [view](https://smtsjhr.com/FlyBy/) |   
+|[![image](https://github.com/smtsjhr/FlyBy/blob/main/FlyBy_300.gif)](https://smtsjhr.com/FlyBy/)  |
+|   |
 
 |  |  |  |  
 |:-:|:-:|:-:|
