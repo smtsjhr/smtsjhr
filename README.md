@@ -11,7 +11,7 @@ Some of these are also hosted on CodePen at [codepen.io/smtsjhr](https://codepen
 |:-:|
 | **FlyBy** | 
 | [repo](https://github.com/smtsjhr/FlyBy) &nbsp;&nbsp;&nbsp; [view](https://smtsjhr.com/FlyBy/) |   
-|[<img src="https://github.com/smtsjhr/FlyBy/blob/main/FlyBy_300.gif" alt="drawing" width="700"/>](https://smtsjhr.com/FlyBy/)  |
+|[<img src="https://github.com/smtsjhr/FlyBy/blob/main/FlyBy_300.gif" alt="drawing" width="500"/>](https://smtsjhr.com/FlyBy/)  |
 |   |
 
 |  |  |  |  
