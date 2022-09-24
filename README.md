@@ -1,6 +1,6 @@
 I am learning how to draw dynamic and interactive graphics using vanilla Javascript on the HTML Canvas. 
 
-I have since made my own amateur utillity script with a simple API called [CanvasAnimater.js](https://smtsjhr.com/CanvasAnimater.js/).
+I have since made my own amateur utillity script with a simple API (and user guide!) called [CanvasAnimater.js](https://smtsjhr.com/CanvasAnimater.js/).
 
 Check out a gallery at [smtsjhr.com/#look](https://smtsjhr.com/#look) or view any of the respositories below.
 
